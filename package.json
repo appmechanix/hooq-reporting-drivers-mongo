@@ -1,6 +1,6 @@
 {
   "name": "hooq-reporting-drivers-mongo",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Mongo driver for hooq-reporting engine",
   "main": "lib/index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwnz/hooq-reporting-drivers-mongo.git"
+    "url": "https://github.com/appmechanix/hooq-reporting-drivers-mongo.git"
   },
   "author": "dwnz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwnz/hooq-reporting-drivers-mongo/issues"
+    "url": "https://github.com/appmechanix/hooq-reporting-drivers-mongo/issues"
   },
-  "homepage": "https://github.com/dwnz/hooq-reporting-drivers-mongo",
+  "homepage": "https://github.com/appmechanix/hooq-reporting-drivers-mongo",
   "devDependencies": {
     "nodeunit": "^0.9.0"
   },
