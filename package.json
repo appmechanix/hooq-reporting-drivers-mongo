@@ -1,6 +1,6 @@
 {
   "name": "hooq-reporting-drivers-mongo",
-  "version": "0.08",
+  "version": "0.0.8",
   "description": "Mongo driver for hooq-reporting engine",
   "main": "lib/index.js",
   "scripts": {
